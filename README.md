@@ -1,6 +1,6 @@
 <a href='https://ui-netflix.netlify.app/'>Netflix UI</a>
 
-<p>Project made with ReactJS 🚀</p>
+<p> 😎 Project made with ReactJS consuming The Movie DB API🚀</p>
 
 </br>
 
